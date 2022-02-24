@@ -1,0 +1,29 @@
+{
+  "itemId" : "_WxDgEJWOEeyNmI6L_qT5Cg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "__0DlMJVTEeyVN7FHxZIruA",
+    "parameterList" : [ {
+      "id" : "__0WgIZVTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Port"
+    }, {
+      "id" : "__0WgIpVTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Login"
+    }, {
+      "id" : "__0WgI5VTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Password"
+    }, {
+      "id" : "__0WgJJVTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_AdditionalParams"
+    }, {
+      "id" : "__0WgJZVTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Server"
+    }, {
+      "id" : "__0WgJpVTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Schema"
+    }, {
+      "id" : "__0WgJ5VTEeyVN7FHxZIruA",
+      "name" : "DB_MSQ_ETL_AMC_Database"
+    } ]
+  } ]
+}
