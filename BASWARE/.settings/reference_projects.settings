@@ -2,5 +2,8 @@
   "reference_projects" : [ {
     "project" : "STATEC_REFERENCE",
     "branch" : "master"
+  }, {
+    "project" : "CDB",
+    "branch" : "branches/DEVELOPPEMENT"
   } ]
 }
